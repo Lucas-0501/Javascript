@@ -1,5 +1,5 @@
 # Repositorio Javascript ----> Lucas Aguero
-Sitio en Github pages: https://lucas-0501.github.io/Javascript-coder/
+Sitio en Github pages: https://lucas-0501.github.io/Javascript/
 
 
 * Este código utiliza la API fetch para cargar de manera asíncrona un archivo JSON que contiene información de usuarios.
